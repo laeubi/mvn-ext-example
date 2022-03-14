@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tycho Bundle
+Bundle-SymbolicName: with-tycho-ext
+Bundle-Version: 0.0.1.qualifier
+Automatic-Module-Name: tycho.bundle
+Bundle-RequiredExecutionEnvironment: JavaSE-11
